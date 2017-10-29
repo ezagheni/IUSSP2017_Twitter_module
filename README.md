@@ -1,9 +1,7 @@
-# IUSSP2017 Workshop - Module on Twitter data
+# IUSSP 2017 Workshop - Module on Twitter data
 
-This is a module of the Workshop on Social Media and Demographic Research, held in Cape Town, South Africa, on October 29, 2017, as a side meeting of the IUSSP International Population Conference.
+This is one module of the [Workshop on Social Media and Demographic Research](https://github.com/CSDE-UW/IUSSP-digital-demog-2017). The workshop was held in Cape Town, South Africa, on October 29, 2017, as a side meeting of the IUSSP International Population Conference.
 
-The material for whole workshop is available here:
-https://github.com/CSDE-UW/IUSSP-digital-demog-2017
 
 ## Setup
 
